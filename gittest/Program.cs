@@ -8,6 +8,8 @@ namespace gittest
         {
             Console.WriteLine("Hello World!");
             int i = 123;
+
+            Console.Write("HELLOOOOO");
         }
     }
 }
